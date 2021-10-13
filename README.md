@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; 19 year old JavaScript developer.
 - 🎓 &nbsp; Studying Electrical Engineering at Sheridan College.
-- 💼 &nbsp; Working as a Landscaper.
+- 💼 &nbsp; Working as a Construction Labourer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
