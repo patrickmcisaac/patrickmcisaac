@@ -5,7 +5,7 @@
 - 🤔 &nbsp; 19 year old systems administrator & developer.
 - 🎓 &nbsp; Studying Electrical Engineering & Computer Science.
 - 💼 &nbsp; Working as a Construction Labourer.
-- 💼 &nbsp; Managing Director at [Novonode](https://novonode.com).
+- 📝 &nbsp; Managing Director at [Novonode](https://novonode.com).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
