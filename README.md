@@ -3,7 +3,7 @@
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 20 year old systems administrator & developer.
-- 🎓 &nbsp; Studying Electrical Engineering & Computer Science.
+- 🎓 &nbsp; Studying Software Development & Network Engineering.
 - 💼 &nbsp; Working as a Construction Labourer.
 - 📝 &nbsp; Managing Director at [Novonode](https://novonode.com).
 
