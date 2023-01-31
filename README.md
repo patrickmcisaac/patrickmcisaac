@@ -23,7 +23,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
-  [![Repos Badge](https://badges.pufler.dev/repos/patrickmcisaac)](https://badges.pufler.dev)
+  [![Visits Badge](https://badges.pufler.dev/visits/patrickmcisaac/git-badges)](https://badges.pufler.dev)
   
 ![signature](https://i.patrickmcisaac.com/images/signature.png)
 <br/>
