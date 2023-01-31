@@ -1,4 +1,4 @@
-<h2> 👋 Hi there! I'm Patrick. ![visitors](https://visitor-badge.glitch.me/badge?patrickmcisaac=page.id&left_color=green&right_color=red)</h2>
+<h2> 👋 Hi there! I'm Patrick.</h2> ![visitors](https://visitor-badge.glitch.me/badge?patrickmcisaac=page.id&left_color=green&right_color=red)
 
 <h3> 👨 &nbsp;About Me </h3>
 
