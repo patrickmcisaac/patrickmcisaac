@@ -1,5 +1,5 @@
 <h2> 👋 Hi there! I'm Patrick.</h2> 
-[![Visits Badge](https://badges.pufler.dev/visits/patrickmcisaac/git-badges)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
 
 <h3> 👨 &nbsp;About Me </h3>
 
