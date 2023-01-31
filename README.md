@@ -1,5 +1,4 @@
 <h2> 👋 Hi there! I'm Patrick.</h2> 
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
 
 <h3> 👨 &nbsp;About Me </h3>
 
@@ -23,6 +22,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  
+  [![Repos Badge](https://badges.pufler.dev/repos/patrickmcisaac)](https://badges.pufler.dev)
   
 ![signature](https://i.patrickmcisaac.com/images/signature.png)
 <br/>
