@@ -24,6 +24,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmcisaac)](https://github.com/patrickmcisaac)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmcisaac&layout=compact)](https://github.com/patrickmcisaac)
   
 ![signature](https://i.patrickmcisaac.com/images/signature.png)
 <br/>
