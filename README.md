@@ -17,8 +17,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- 🖧  &nbsp;
+- 🖥️ &nbsp;
    ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
