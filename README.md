@@ -1,5 +1,5 @@
 <h2> 👋 Hi there! I'm Patrick.</h2> 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=patrickmcisaac.visitor-badge)
+[![Visits Badge](https://badges.pufler.dev/visits/patrickmcisaac/git-badges)](https://badges.pufler.dev)
 
 <h3> 👨 &nbsp;About Me </h3>
 
