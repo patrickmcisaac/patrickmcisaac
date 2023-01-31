@@ -23,6 +23,7 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
   
 ![signature](https://i.patrickmcisaac.com/images/signature.png)
 <br/>
