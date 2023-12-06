@@ -36,6 +36,3 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  
-![signature](https://i.patrickmcisaac.com/images/signature.png)
-<br/>
